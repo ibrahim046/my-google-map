@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'google-app';
+  lat = 13;
+  lng = 80;
 }
